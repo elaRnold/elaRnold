@@ -4,7 +4,7 @@
 - 🍓 Here you can find some projects that I have carried out during my career 😎
 - 📫 How to reach me: 
   * arnaldobenavides@uninorte.edu.co
-  * https://www.linkedin.com/in/arnaldo-benavides-rodriguez/
+  * www.linkedin.com/in/arnaldo-benavides
 
 <p align="center">
   <img src="https://github.com/elaRnold/elaRnold/blob/main/200.webp" alt="animated" />
