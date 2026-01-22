@@ -1,6 +1,6 @@
 # Hi there 👋
-- 🔭 I'm a systems engineer focused on web/mobile application development.
-- 🏆 I have worked on projects with PHP (Laravel), JavaScript, Typescript, Python, Dart (Flutter), React (Next.JS, Electron.JS)
+- 🔭 I'm a systems engineer focused on web application development.
+- 🏆 I have worked on projects with JavaScript, Typescript, React (Next.JS), Vue (Nuxt) & Nest.
 - 🍓 Here you can find some projects that I have done during my free time 😎.
 - 📫 How to reach me: 
   * [arnaldobenavides@uninorte.edu.co]
